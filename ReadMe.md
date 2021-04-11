@@ -1,6 +1,6 @@
 Rest API Tests
 
-This project consists is implemented primarily using restAssured,cucumber,junit and java.
+This project is implemented using restAssured,cucumber,junit and java.
 
 The project structure consists of
 
